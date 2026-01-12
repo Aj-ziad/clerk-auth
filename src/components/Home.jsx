@@ -23,7 +23,7 @@ function Home() {
         </div>
       </section>
 
-      {/* Profile Card */}
+     
       <div className="w-80 bg-white border-4 border-black shadow-[8px_8px_0_#000] absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 z-20">
         {/* Top Yellow Area */}
         <div className="h-36 bg-yellow-400 border-b-4 border-black flex justify-center items-end">
